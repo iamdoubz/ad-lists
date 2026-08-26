@@ -1,226 +1,59 @@
- a4.applovin.com                                                              
- aax-us-east-retail-direct.amazon.com                                         
- ad.as.amanad.adtdp.com                                                       
- ads.pubmatic.com                                                             
- ads.stickyadstv.com                                                          
- ads.yieldmo.com                                                              
- analytics.adjust.com                                                         
- analytics.adjust.net.in                                                      
- analytics.google.com                                                         
- androidtvchannels-pa.googleapis.com                                          
- androidtvwatsonfe-pa.googleapis.com                                          
- api.bidmachine.io                                                            
- api.gameanalytics.com                                                        
- api.mixpanel.com                                                             
- api.segment.io                                                               
- api.smoot.apple.com                                                          
- api.statsig.com                                                              
- api16-access-ttp.tiktokpangle.us                                             
- api16-access-ttp.tiktokpangle-b.us                                           
- api16-access-ttp-b.tiktokpangle.us                                           
- api16-access-ttp-b.tiktokpangle-b.us                                         
- api2.amplitude.com                                                           
- app-analytics-services.com                                                   
- app-analytics-v2.snapchat.com                                                
- app-measurement.com                                                          
- assets-jpcust.jwpsrv.com                                                     
- banner.appsflyersdk.com                                                      
- b-code.liadm.com                                                             
- bh.contextweb.com                                                            
- bidder.criteo.com                                                            
- browser.events.data.microsoft.com                                            
- browser-intake-datadoghq.com                                                 
- c.amazon-adsystem.com                                                        
- c2shb.pubgw.yahoo.com                                                        
- ca.iadsdk.apple.com                                                          
- cd.connatix.com                                                              
- cdn.browsiprod.com                                                           
- cdn.cookielaw.org                                                            
- cdn.iads.unity3d.com                                                         
- cdn.id5-sync.com                                                             
- cdn.p-n.io                                                                   
- cdn.quantummetric.com                                                        
- cdn.taboola.com                                                              
- cdn2.inner-active.mobi                                                       
- cdp.cloud.unity3d.com                                                        
- cf.iadsdk.apple.com                                                          
- check.rayjump.com                                                            
- cirross.sytes.net                                                            
- config.ads.vungle.com                                                        
- config.inmobi.com                                                            
- config.uca.cloud.unity3d.com                                                 
- configure.rayjump.com                                                        
- crashlyticsreports-pa.googleapis.com                                         
- cs.media.net                                                                 
- cstat.cdn-apple.com                                                          
- d.applovin.com                                                               
- d1tru86qrby720.cloudfront.net                                                
- d30qdagvt44524.cloudfront.net                                                
- d3p8zr0ffa9t17.cloudfront.net                                                
- default.exp-tas.com                                                          
- detroitriotcity.com                                                          
- device-messaging-na.amazon.com                                               
- digisandeep.in.net                                                           
- direct.adsrvr.org                                                            
- donotsta.re                                                                  
- dpm.demdex.net                                                               
- eb2.3lift.com                                                                
- edge.safedk.com                                                              
- entitlements.jwplayer.com                                                    
- eu-mobile.events.data.microsoft.com                                          
- events.bsky.app                                                              
- events.gfe.nvidia.com                                                        
- events-stream-svc.usw2.cordial.com                                           
- fastlane.rubiconproject.com                                                  
- firebaselogging-pa.googleapis.com                                            
- firebase-settings.crashlytics.com                                            
- fls-na.amazon.com                                                            
- friend.enby-box.de                                                           
- fundingchoicesmessages.google.com                                            
- gadort.zapto.org                                                             
- gateway.unityads.unity3d.com                                                 
- global.ketchcdn.com                                                          
- global.telemetry.insights.video.a2z.com                                      
- googleads.g.doubleclick.net                                                  
- graph.instagram.com                                                          
- graph-fallback.facebook.com                                                  
- gs-loc.apple.com                                                             
- gum.criteo.com                                                               
- gw1.mediation.unity3d.com                                                    
- hbopenbid.pubmatic.com                                                       
- htlb.casalemedia.com                                                         
- i.viafoura.co                                                                
- iadsdk.apple.com                                                             
- ib.adnxs.com                                                                 
- id5-sync.com                                                                 
- idx.liadm.com                                                                
- ih.adscale.de                                                                
- illfated.zapto.org                                                           
- image8.pubmatic.com                                                          
- imasdk.googleapis.com                                                        
- img.applovin.com                                                             
- impression.appsflyer.com                                                     
- incoming.telemetry.mozilla.org                                               
- init.supersonicads.com                                                       
- ios.bugly.qq.com                                                             
- i-sdk.mediation.unity3d.com                                                  
- lazy.rayjump.com                                                             
- lf-static.tiktokpangle-cdn-us.com                                            
- lg3.media.net                                                                
- lightstep.kaizen.nvidia.com                                                  
- logs.ads.vungle.com                                                          
- mab.chartbeat.com                                                            
- makerlab.sytes.net                                                           
- mask.icloud.com                                                              
- mask-h2.icloud.com                                                           
- match.adsrvr.org                                                             
- message-hub-svc.usw2.cordial.com                                             
- metrics.icloud.com                                                           
- ms.applovin.com                                                              
- ms4.applovin.com                                                             
- navvy.media.net                                                              
- news.iadsdk.apple.com                                                        
- news-events.apple.com                                                        
- noti-us.adsmoloco.com                                                        
- nrdp.logs.netflix.com                                                        
- ogads-pa.clients6.google.com                                                 
- ogads-pa.googleapis.com                                                      
- o-sdk.mediation.unity3d.com                                                  
- p0.storage.canalblog.com                                                     
- pagead2.googlesyndication.com                                                
- pbs.publishers.tremorhub.com                                                 
- ping.chartbeat.net                                                           
- pixel.rubiconproject.com                                                     
- pl.connatix.com                                                              
- policy.rayjump.com                                                           
- prd.jwpltx.com                                                               
- prod-mediate-events.applovin.com                                             
- pubads.g.doubleclick.net                                                     
- realtime.services.disqus.com                                                 
- referrer.disqus.com                                                          
- res1.applovin.com                                                            
- rp.liadm.com                                                                 
- rt.applovin.com                                                              
- rtb.gumgum.com                                                               
- rtb.openx.net                                                                
- sb.scorecardresearch.com                                                     
- sdkapi.dsp-api.moloco.com                                                    
- sdk-events.inner-active.mobi                                                 
- securepubads.g.doubleclick.net                                               
- secure-us.imrworldwide.com                                                   
- senna.zapto.org                                                              
- sicurezza-dei-trasporti-rimini-tribunale-carabinieri-italiano-i.yolasite.com 
- skadnetworks.fyber.com                                                       
- smetrics.tmz.com                                                             
- solarcloud.sytes.net                                                         
- srtb.msn.com                                                                 
- ssbsync.smartadserver.com                                                    
- ssum.casalemedia.com                                                         
- star.fallback.c10r.facebook.com                                              
- static.chartbeat.com                                                         
- static.cloudflareinsights.com                                                
- static.criteo.net                                                            
- static.doubleclick.net                                                       
- stats.g.doubleclick.net                                                      
- stats.gc.apple.com                                                           
- sts.applovin.com                                                             
- sync.1rx.io                                                                  
- sync.bfmio.com                                                               
- sync.go.sonobi.com                                                           
- sync.richaudience.com                                                        
- sync.springserve.com                                                         
- sync.sxp.smartclip.net                                                       
- sync.teads.tv                                                                
- telemetry.gfe.nvidia.com                                                     
- telemetry.sdk.inmobi.com                                                     
- telemetry.soundcloud.com                                                     
- telemetry.transcend.io                                                       
- thisoneismine.zapto.org                                                      
- tlx.3lift.com                                                                
- tpc.googlesyndication.com                                                    
- tr.iadsdk.apple.com                                                          
- track.tenjin.com                                                             
- unagi.amazon.com                                                             
- unagi-na.amazon.com                                                          
- ups.analytics.yahoo.com                                                      
- vicholocal.in.net                                                            
- vs-api.voodoo-tech.io                                                        
- warp.media.net                                                               
- wiseglobal.in.net                                                            
- wv.inner-active.mobi                                                         
- www.clarity.ms                                                               
- www.googletagmanager.com                                                     
- www.googletagservices.com                                                    
- www.inmobi.com                                                               
- www.stack-sonar.com                                                          
- www.theplace2.ru                                                             
- www.zergnet.com                                                              
- y.one.impact-ad.jp                                                           
- zipthelake.com                                                               
+01.cdn.mediatradecraft.com
+0548825e71113d.lhr.life
+09b57682105fd87351a15b4dc4451477.serveo.net
+1060694.collect.igodigital.com
+121c67044a20c0.lhr.life
+12808899.fls.doubleclick.net
+1abd2e684d8974.lhr.life
+26287a954af402.lhr.life
+27aec9c328dd6e.lhr.life
 29773.v.fwmrm.net
+39938f4e1fed03a283f926acdf901af6.serveo.net
 3p-geo.yahoo.com
 3p-udc.yahoo.com
+4377df1c59266f.lhr.life
+534000654.collect.igodigital.com
+5be2933dfabe51f59a0835e24ff70749.serveo.net
+6450450.fls.doubleclick.net
+6ba4c83b4fbfe1.lhr.life
 701602.parkingcrew.net
+7fee7be87264f7.lhr.life
+861f84ba65bf13.lhr.life
+8b049712c8513a.lhr.life
+9d5d19ccf8097b.lhr.life
 a.et.nytimes.com
+a.pub.network
 a.teads.tv
 a.wishabi.com
 a125375509.cdn.optimizely.com
+a4.applovin.com
 a6529002483.cdn.optimizely.com
 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+aac217efb2d7a7.lhr.life
 aamt.nbcnews.com
 aan.amazon.com
 aax.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
 acdn.adnxs.com
+ackzany.com
+action.media6degrees.com
 ad.afy11.net
 ad.as.amanad.adtdp.com
 ad.doubleclick.net
 ad.ipredictive.com
 ad.turn.com
 adc3-launch.adcolony.com
+ad-delivery.net
+ade.googlesyndication.com
 adeventtracker.spotify.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+adobedc.demdex.net
 ads.adaptv.advertising.com
+ads.mozilla.org
 ads.pubmatic.com
 ads.rubiconproject.com
 ads.stickyadstv.com
@@ -229,6 +62,7 @@ adserver-us.adtech.advertising.com
 adservice.google.com
 adstore.response.eastus.trafficmanager.net
 advertising.amazon.com
+aepxlg.adobe.com
 aid.send.microad.jp
 airlytics.airlock.twcmobile.weather.com
 ak.sail-horizon.com
@@ -238,87 +72,152 @@ alb.reddit.com
 als-svc.nytimes.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
+analytics.adjust.com
+analytics.adjust.net.in
 analytics.getshogun.com
+analytics.githubassets.com
+analytics.google.com
 analytics.plex.tv
 analytics.tiktok.com
 analytics-static.ugc.bazaarvoice.com
+androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 aol.socdm.com
 ap.lijit.com
 api.amplitude.com
+api.antibanads.com
+api.apptentive.com
+api.b2c.com
+api.bidmachine.io
 api.bluecore.com
+api.btloader.com
 api.cxense.com
+api.firwinds.site
+api.gameanalytics.com
 api.ipstack.com
+api.lab.amplitude.com
 api.mixpanel.com
 api.nextgen.guardianapps.co.uk
 api.permutive.com
+api.receptivity.io
 api.rlcdn.com
 api.segment.io
 api.smoot.apple.com
 api.statsig.com
 api.vidora.com
+api16-access-ttp.tiktokpangle.us
+api16-access-ttp.tiktokpangle-b.us
+api16-access-ttp-b.tiktokpangle.us
+api16-access-ttp-b.tiktokpangle-b.us
+api2.amplitude.com
+api-2-0.spot.im
+api3.branch.io
+api-gdpr.voodoo-tech.io
 api-js.mixpanel.com
 app.link
+app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-measurement.com
 ap-southeast-sync.go.sonobi.com
+archive.ph
 as.casalemedia.com
 as-sec.casalemedia.com
+assets.jetlore.com
+assets.narvar.com
 assets.tapad.com
+assetsconfigcdn.org
+assets-jpcust.jwpsrv.com
+astian.org
 aswpsdkus.com
+athwartwhoafat.com
 ats.rlcdn.com
+atsod.launch.liveramp.com
 audience.zeustechnology.com
+auth-na.hismarttv.com
 b.fox.com
 b.scorecardresearch.com
+b.stats.paypal.com
 bam.nr-data.net
+banner.appsflyersdk.com
 bat.bing.com
 bats.video.yahoo.com
 b-code.liadm.com
+bcp.crwdcntrl.net
 bea4.cnn.com
 bea4.v.fwmrm.net
 beacon.krxd.net
 beacon.walmart.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons5.gvt3.com
 beam.hlserve.com
 beap.gemini.yahoo.com
 beap-bc.yahoo.com
+bestbuy.7tiv.net
+bf3127a20a2cf7.lhr.life
 bh.contextweb.com
 bidder.criteo.com
+blissfullyzebra.com
+blog.enby-box.de
+boykissers.net
+brahe.apptimize.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
+browser-intake-datadoghq.com
+browser-intake-us5-datadoghq.com
 bs.serving-sys.com
 btloader.com
 btlr.sharethrough.com
 bttrack.com
+buttsmithy.com
+bzr.openai.com
+bzrcdn.openai.com
 c.aaxads.com
 c.amazon-adsystem.com
 c.bing.com
+c.clarity.ms
 c.go-mpulse.net
+c.hrzn-nxt.com
 c.lytics.io
 c.msn.com
 c.tvpixel.com
 c1.adform.net
+c2shb.pubgw.yahoo.com
 ca.iadsdk.apple.com
 capi.connatix.com
+cb57569e6d66c3.lhr.life
 cd.connatix.com
+cdn.acidcow.com
+cdn.adapex.io
 cdn.adaptv.advertising.com
 cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.brandmetrics.com
+cdn.browsiprod.com
+cdn.carbonads.com
 cdn.cmp.advertising.com
 cdn.connatix.com
 cdn.cookielaw.org
 cdn.cquotient.com
+cdn.cupoftea.social
 cdn.cxense.com
 cdn.doubleverify.com
 cdn.fuseplatform.net
+cdn.iads.unity3d.com
+cdn.id5-sync.com
 cdn.krxd.net
+cdn.mobilefuse.com
+cdn.onthe.io
 cdn.parsely.com
+cdn.permutive.app
 cdn.permutive.com
+cdn.p-n.io
 cdn.quantummetric.com
 cdn.revjet.com
 cdn.segment.com
+cdn.siftscience.com
 cdn.speedcurve.com
 cdn.taboola.com
 cdn.tagcommander.com
@@ -326,88 +225,160 @@ cdn.teads.tv
 cdn.trackjs.com
 cdn.tt.omtrdc.net
 cdn.viglink.com
+cdn2.inner-active.mobi
 cdn-gl.imrworldwide.com
 cdn-pci.optimizely.com
 cdn-settings.appsflyersdk.com
 cdn-settings.segment.com
 cdn-usent.kampyle.com
 cdn-v3.conductrics.com
+cdp.cloud.unity3d.com
+census-app-x.scorecardresearch.com
 cf.iadsdk.apple.com
 chat.avatar.ext.hp.com
+check.rayjump.com
+check-tcp.rayjump.com
+cirross.sytes.net
 cl.qualaroo.com
 clc.stackoverflow.com
+client.aps.amazon-adsystem.com
+client-analytics.braintreegateway.com
 cm.g.doubleclick.net
 cm.mgid.com
 cmp.dmgmediaprivacy.co.uk
+cmp.osano.com
 cms.analytics.yahoo.com
 collector.cdp.cnn.com
+collector.github.com
 collector-3309.tvsquared.com
+collector-pxdojv695v.protechts.net
+collector-pxdojv695v.px-cloud.net
+coloradoserves.com
 combine.urbanairship.com
 confiant.msn.com
+config.ads.vungle.com
+config.aps.amazon-adsystem.com
 config.inmobi.com
+config.uca.cloud.unity3d.com
+config2.mparticle.com
+configure.rayjump.com
+configure-tcp.rayjump.com
+configure-tcp-ios.mtgglobals.com
 consent.cmp.oath.com
 consumer.krxd.net
 content.gap.com
 content-thumbnail.cxpublic.com
 contextual.media.net
+control.kochava.com
+crashlyticsreports-pa.googleapis.com
 creativecdn.com
 crta.dailymail.co.uk
 cs.emxdgt.com
+cs.media.net
+cs.ns1p.net
+csi.gstatic.com
+csp-reporting.cloudflare.com
 cstat.apple.com
 cstat.cdn-apple.com
 csync.loopme.me
 ct.pinterest.com
 cx.atdmt.com
+d.applovin.com
+d.btttag.com
 d.impactradius-event.com
 d.joinhoney.com
 d.turn.com
 d1iazwv1n1tsyi.cloudfront.net
+d1tru86qrby720.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
+d21y75miwcfqoq.cloudfront.net
+d2e0sxz09bo7k2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2uap9jskdzp2.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d30qdagvt44524.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
+d34r8q7sht0t9k.cloudfront.net
 d3p8zr0ffa9t17.cloudfront.net
+d6445a42a909d1.lhr.life
+d7c905e57aab071901402f5bdf68edc0.serveo.net
+dart.l.doubleclick.net
 data.cnn.com
+db502b64fe9ad8.lhr.life
+dccc30c586e389.lhr.life
+dczaykiwz2np4z.archive.ph
+default.exp-tas.com
 delivery.adrecover.com
+detroitriotcity.com
 dev.visualwebsiteoptimizer.com
 device-api.urbanairship.com
+device-messaging-na.amazon.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 di.rlcdn.com
+dia.uno.zzz.hemsida.eu
+diaspora.frerot.me
+digisandeep.in.net
 direct.ad.cpe.dotomi.com
+direct.adsrvr.org
 dis.criteo.com
+donotsta.re
 dpm.demdex.net
 ds-aksb-a.akamaihd.net
 dsp.adfarm1.adition.com
+dspil.jcp.com
 dsum-sec.casalemedia.com
 e.zg-api.com
+e3fbbba6142362.lhr.life
 eb2.3lift.com
+edge.adobedc.net
 edge.curalate.com
 edge.fullstory.com
+edge.safedk.com
 edgecast-vod.yimg.com
 enterprise.activity.windows.com
+entitlements.jwplayer.com
+ep1.adtrafficquality.google
 eq97f.publishers.tremorhub.com
+error-analytics-sessions-production.shopifysvc.com
+eu-mobile.events.data.microsoft.com
 eum-orange-saas.instana.io
 eus.rubiconproject.com
 eu-v10.events.data.microsoft.com
+event.syndigo.cloud
 events.attentivemobile.com
+events.browsiprod.com
+events.bsky.app
+events.gfe.nvidia.com
 events.launchdarkly.com
 events.mapbox.com
+events-api.soundcloud.com
 events-stream-svc.usw2.cordial.com
 expedia.com.ssl.d1.sc.omtrdc.net
+f79e004fe23a99.lhr.life
 fastlane.rubiconproject.com
 fastlane-adv.rubiconproject.com
 fc.yahoo.com
+fdz.flashtalking.com
+featureassets.org
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
+flag.lab.amplitude.com
+flask.nextdoor.com
+flask.us.nextdoor.com
 fls-na.amazon.com
 foxnews.demdex.net
 foxnews.tt.omtrdc.net
 foxnews-d.openx.net
 fp.msedge.net
+friend.enby-box.de
+ftpcontent.worldnow.com
+fundingchoicesmessages.google.com
+g.ezoic.net
+gadort.zapto.org
 gateway.foresee.com
+gateway.unityads.unity3d.com
 gemini.yahoo.com
 geo.nbcsports.com
 geo.query.yahoo.com
@@ -415,85 +386,159 @@ geo.yahoo.com
 geolocation.onetrust.com
 get.s-onetag.com
 global.ketchcdn.com
+global.telemetry.insights.video.a2z.com
 gocm.c.appier.net
+googleads.g.doubleclick.net
 google-analytics.com
+googletagservices.com
 graph.instagram.com
+graph-fallback.facebook.com
 gs-loc.apple.com
 gum.criteo.com
+gurgle.zdnet.com
+gw1.mediation.unity3d.com
+gx-target-experiments-frontend-api.gx.nvidia.com
 h.nexac.com
 hb-api.omnitagjs.com
+hbiq.net
 hbopenbid.pubmatic.com
 hbx.media.net
 h-e04kqxof.online-metrix.net
+hexagon-analytics.com
 hpr.outbrain.com
 htlb.casalemedia.com
+html-load.com
 i.clean.gg
 i.ctnsnet.com
+i.liadm.com
+i.ucrazy.ru
+i.viafoura.co
+i-adq.mediation.unity3d.com
 iadsdk.apple.com
 ib.3lift.com
 ib.adnxs.com
 ic3.events.data.microsoft.com
 ichnaea.netflix.com
+id.rlcdn.com
 id5-sync.com
+identity.mparticle.com
 idpix.media6degrees.com
 idsync.rlcdn.com
+idx.liadm.com
 ieonlinews.microsoft.com
+ih.adscale.de
+illfated.zapto.org
 image8.pubmatic.com
 images.outbrain.com
+images2.minutemediacdn.com
 imasdk.googleapis.com
+img.applovin.com
+img.pr0gramm.com
+impression.appsflyer.com
 incoming.telemetry.mozilla.org
+in-ftd-269.us5.vip.prod.criteo.com
+init.supersonicads.com
 insights.zeustechnology.com
+insights-collector.newrelic.com
+int.akisinn.info
+int.akisinn.site
+int.dewrain.site
+int.vaicore.site
+int.vaicore.store
+int.vaicore.xyz
+ios.bugly.qq.com
+i-sdk.mediation.unity3d.com
 jas.indeednps.com
 jill.fc.yahoo.com
+js.adsrvr.org
 js.driftt.com
 js.taplytics.com
 js-agent.newrelic.com
+js-cdn.dynatrace.com
 jssdkcdns.mparticle.com
 js-sec.indexww.com
 krk.kargo.com
 launches.appsflyer.com
+launches.appsflyersdk.com
+lazy.rayjump.com
+lazy-tcp.rayjump.com
+lf-static.tiktokpangle-cdn-us.com
+lg3.media.net
 lightning.cnn.com
 lightstep.kaizen.nvidia.com
 live.rezync.com
 log.outbrain.com
 log.pinterest.com
+log-api.newrelic.com
 login.dotomi.com
+loginportal.funnyjunk.com
 logs.ads.vungle.com
+logs.browser-intake-datadoghq.com
+logs.netflix.com
 logx.optimizely.com
 m.addthis.com
 m7hdh-2damu.ads.tremorhub.com
+mab.chartbeat.com
 mads.amazon-adsystem.com
+mail-ads.google.com
+makerlab.sytes.net
 mask.icloud.com
 mask-h2.icloud.com
+mastodon.nksm.in.net
 match.adsrvr.org
 match.prod.bidr.io
 match.rundsp.com
 match.sharethrough.com
 mb.moatads.com
+mcs.tiktokv.us
+md-i-s.apptimize.com
 media.richrelevance.com
 message-hub-svc.usw2.cordial.com
 meter-svc.nytimes.com
 metrics.brightcove.com
 metrics.foxnews.com
 metrics.icloud.com
+metrics.rapidedge.io
 metrics.washingtonpost.com
+metrics-config.icloud.com
+mfx.mobilefuse.com
+micro.rubiconproject.com
 mid.rkdms.com
+mid4.linkedin.com
 ml314.com
 mms.cnn.com
+mobile.confsettings.com
 mobile.pipe.aria.microsoft.com
+mobile-collector.newrelic.com
+monorail-edge.shopifysvc.com
+mparticle.weather.com
+ms.applovin.com
 ms4.applovin.com
+mssdk.tiktokw.us
 mssl.fwmrm.net
+mstdn.breadcat.run
 munchkin.marketo.net
+navvy.media.net
 nbcu.demdex.net
 nbcume.hb.omtrdc.net
 nebula-cdn.kampyle.com
 net-vg.mtgglobals.com
+news.iadsdk.apple.com
+news-events.apple.com
 nexus.officeapps.live.com
+noa.yahoo.com
+notify.bugsnag.com
 noti-us.adsmoloco.com
+nova.collect.igodigital.com
+nova-collector-1192479543.us-east-1.elb.amazonaws.com
+nrdp.logs.netflix.com
 nym1-ib.adnxs.com
 o.iads.unity3d.com
 odb.outbrain.com
+oddstuffmagazine.com
 odf.app-ads-services.com
+ogads-pa.clients6.google.com
+ogads-pa.googleapis.com
 om.elvenar.com
 omniture.walmart.com
 omniture-ssl.walmart.com
@@ -502,6 +547,7 @@ oms.expedia.com
 optimized-by.rubiconproject.com
 optimizely.wsj.com
 opus.analytics.yahoo.com
+o-sdk.mediation.unity3d.com
 ovp.iris.tv
 p.adsymptotic.com
 p.liadm.com
@@ -509,46 +555,76 @@ p.rfihub.com
 p.teads.tv
 p.typekit.net
 p.yotpo.com
+p0.storage.canalblog.com
 pagead2.googlesyndication.com
 pagead-googlehosted.l.google.com
 partner.googleadservices.com
+pbs.publishers.tremorhub.com
 perr.h-cdn.com
 phar.gu-web.net
+ping.chartbeat.net
 pixel.adsafeprotected.com
 pixel.advertising.com
+pixel.byspotify.com
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.spotify.com
 pixel.videohub.tv
+pixel-config.reddit.com
+pixels.spotify.com
 pixel-static.spotify.com
 pixel-us-east.rubiconproject.com
 pixiedust.buzzfeed.com
+pl.connatix.com
 platform.iteratehq.com
 platform-api.sharethis.com
 player.stats.live-video.net
+plugins.blueconic.net
+plume.vvn.space
 pm.w55c.net
+policy.rayjump.com
+policy-tcp.rayjump.com
+ponos.zeronaught.com
+pp.userapi.com
 pr-bh.ybp.yahoo.com
+prd.jwpltx.com
 prebid.adnxs.com
 prebid-server.rubiconproject.com
 prg.smartadserver.com
 privacyportal.onetrust.com
 privacyportal-de.onetrust.com
+prod.cm.publishers.advertising.a2z.com
 prod.fennec.atp.fox
+prod-mediate-events.applovin.com
 prod-m-node-1111.ssp.advertising.com
 protected-by.clarium.io
 pt.ispot.tv
+pub.doubleverify.com
 pubads.g.doubleclick.net
+publisher-assets.spot.im
 px.ads.linkedin.com
 px.owneriq.net
 quantcast.com
 quantcast.mgr.consensu.org
+randomc.net
+rapid-cdn.yottaa.com
+realtime.services.disqus.com
 recommender.scarabresearch.com
 referrer.disqus.com
 remote-data.urbanairship.com
+rep.maxesads.com
 reports.crashlytics.com
+res1.applovin.com
+retail-client-events-service.internal.salsify.com
+rl.quantummetric.com
 rp.gwallet.com
+rp.liadm.com
+rspod.dns-cloud.net
+rt.applovin.com
 rtb.adentifi.com
+rtb.gumgum.com
 rtb.mfadsrvr.com
+rtb.openx.net
 rtbcdn.doubleverify.com
 rules.quantcount.com
 rumcdn.geoedge.be
@@ -559,6 +635,7 @@ s.ntv.io
 s.skimresources.com
 s0.2mdn.net
 s2.go-mpulse.net
+s2s.singular.net
 s7.addthis.com
 sapphire-api.target.com
 sb.scorecardresearch.com
@@ -566,7 +643,10 @@ scripts.webcontentassessor.com
 scripttags.justuno.com
 sc-static.net
 sdk.iad-01.braze.com
+sdk.iad-06.braze.com
 sdk.split.io
+sdkapi.dsp-api.moloco.com
+sdk-events.inner-active.mobi
 se.monetate.net
 search.spotxchange.com
 secure.adnxs.com
@@ -583,48 +663,73 @@ sedoparking.com
 segment-data.zqtk.net
 segment-data-us-east.zqtk.net
 self.events.data.microsoft.com
+senna.zapto.org
 sentry.io
 servedby.flashtalking.com
 services.brightline.tv
 sessions.bugsnag.com
+sicurezza-dei-trasporti-rimini-tribunale-carabinieri-italiano-i.yolasite.com
 siteanalytics.compete.com
+siteintercept.qualtrics.com
+skadnetworks.fyber.com
+skullmagnets.com
+smetrics.anthem.com
 smetrics.carters.com
 smetrics.foxnews.com
+smetrics.jcpenney.com
 smetrics.tmz.com
+smetrics.usbank.com
 snap.licdn.com
+social.hidekisaito.com
 sofia.trustx.org
+solarcloud.sytes.net
 sp.analytics.yahoo.com
 squirrelhands.com
+sr-client-cfg.amplitude.com
 srtb.msn.com
+srv.carbonads.net
+ssbsync.smartadserver.com
 sstats.adobe.com
+ssum.casalemedia.com
 ssum-sec.casalemedia.com
 star.fallback.c10r.facebook.com
+startup.mobile.yandex.net
+statcounter.com
 static.addtoany.com
 static.adsafeprotected.com
 static.ads-twitter.com
+static.canalblog.com
 static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.com
 static.criteo.net
 static.doubleclick.net
+static.ecorebates.com
 static.hotjar.com
 static.klaviyo.com
 static.yieldmo.com
+static.zerochan.net
 statics-marketingsites-eus-ms-com.akamaized.net
 stats.g.doubleclick.net
 stats.gc.apple.com
 stats.wp.com
 storage.cloud.kargo.com
 sts.applovin.com
+succeedscene.com
 survey-smiles.com
 swa.and.co.uk
 sync.1rx.io
 sync.aralego.com
 sync.bfmio.com
+sync.go.sonobi.com
 sync.lemmatechnologies.com
 sync.mathtag.com
+sync.richaudience.com
 sync.search.spotxchange.com
 sync.smartadserver.com
+sync.springserve.com
+sync.sxp.smartclip.net
+sync.teads.tv
 sync-dsp.ad-m.asia
 sync-eu.connectad.io
 sync-tm.everesttech.net
@@ -633,63 +738,112 @@ t.indeed.com
 t.paypal.com
 t.powerreviews.com
 t.teads.tv
+t.vibe.co
 tag.1rx.io
 tag.bounceexchange.com
+tag.getamigo.io
 tag.researchnow.com
 tag.rmp.rakuten.com
 tag.sp.advertising.com
 tag.yieldoptimizer.com
 tagan.adlightning.com
 taglocker.target.com
+tags.pw.adn.cloud
+take100yen.zapto.org
 target.microsoft.com
 targeting.washpost.nile.works
+telemetry.bydata.com
+telemetry.gfe.nvidia.com
+telemetry.sdk.inmobi.com
+telemetry.soundcloud.com
+telemetry.transcend.io
+thisoneismine.zapto.org
+thumb-p7.xhcdn.com
+titanprod.narvar.com
+tlhonmey.publicvm.com
 tlx.3lift.com
 tpc.googlesyndication.com
 tps.doubleverify.com
+tr.iadsdk.apple.com
 tr.outbrain.com
+tr.snapchat.com
+track.tenjin.com
+tracking.aws.judge.me
 trc.taboola.com
 triggeredmail.appspot.com
+trk.pinterest.com
 trk.vidible.tv
+ttmetrics.jcpenney.com
 u.openx.net
+udc.yahoo.com
 uk-script.dotmetrics.net
 um.simpli.fi
 ums.adtech.com
 unagi.amazon.com
 unagi-na.amazon.com
+unbesiegbar.dynv6.net
+uncertain.place
 ups.analytics.yahoo.com
 us.tags.newscgp.com
+usacrime.com
 usage.trackjs.com
 usasync01.admantx.com
+usbank.tt.omtrdc.net
+use.typekit.net
 us-u.openx.net
+utt.impactcdn.com
 venetrigni.com
 verizon.adhaven.com
+vicholocal.in.net
 vid.springserve.com
 video.adaptv.advertising.com
 vidstat.taboola.com
 visitor.omnitagjs.com
 vortex.data.microsoft.com
 vrt.outbrain.com
+vs-api.voodoo-tech.io
 w.usabilla.com
+w3-reporting.reddit.com
+wa.mmm.page
+wa.scribd.com
+warp.media.net
 washingtonpost-d.openx.net
 wd.adcolony.com
 web.vortex.data.microsoft.com
 web.vortex.data.msn.com
+websdk.appsflyer.com
+websdk.appsflyersdk.com
 widget.perfectmarket.com
 widgets.outbrain.com
 widgets.tree.com
+wiseglobal.in.net
+within.this.garden
 ws.audioeye.com
+wv.inner-active.mobi
+www.app-ads-services.com
 www.bizographics.com
 www.clarity.ms
+www.datadoghq-browser-agent.com
 www.dianomi.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
+www.gutenberg.org
+www.inmobi.com
 www.mczbf.com
+www.monstersandcritics.com
 www.ojrq.net
+www.stack-sonar.com
 www.summerhamster.com
+www.theplace2.ru
 www.ugdturner.com
+www.zergnet.com
+www-alv.google-analytics.com
 x.bidswitch.net
 y.one.impact-ad.jp
+yield-manager.browsiprod.com
 z.cdp-dev.cnn.com
 z.moatads.com
+zdbb.net
 zion-telemetry.api.cnn.io
+zipthelake.com
