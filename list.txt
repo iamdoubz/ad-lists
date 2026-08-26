@@ -259,6 +259,7 @@ live.rezync.com
 log.outbrain.com
 log.pinterest.com
 login.dotomi.com
+logs.ads.vungle.com
 logx.optimizely.com
 m.addthis.com
 m7hdh-2damu.ads.tremorhub.com
@@ -281,6 +282,7 @@ mid.rkdms.com
 ml314.com
 mms.cnn.com
 mobile.pipe.aria.microsoft.com
+ms4.applovin.com
 mssl.fwmrm.net
 munchkin.marketo.net
 nbcu.demdex.net
@@ -292,6 +294,7 @@ noti-us.adsmoloco.com
 nym1-ib.adnxs.com
 o.iads.unity3d.com
 odb.outbrain.com
+odf.app-ads-services.com
 om.elvenar.com
 omniture.walmart.com
 omniture-ssl.walmart.com
@@ -413,6 +416,7 @@ stats.g.doubleclick.net
 stats.gc.apple.com
 stats.wp.com
 storage.cloud.kargo.com
+sts.applovin.com
 survey-smiles.com
 swa.and.co.uk
 sync.1rx.io
